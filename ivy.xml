@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ivy-module version="2.0">
+	<info organisation="Leto Consulting, LLC" module="httpstub" />
+	<dependencies>
+		<dependency org="junit" name="junit" rev="4.6" />
+		<dependency org="org.mortbay.jetty" name="jetty" rev="7.0.0.pre5" />
+	</dependencies>
+</ivy-module>
